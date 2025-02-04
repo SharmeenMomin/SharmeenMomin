@@ -1,6 +1,14 @@
 # Hi there, I'm Sharmeen Momin! 👋
 
-I'm a Master’s student in **Computer Science** at **North Carolina State University**, with a passion for **backend development**, **data science**, and **software engineering**. My journey has been driven by curiosity, innovation, and a commitment to creating impactful solutions.
+I’m a **Software Engineer** with passion for **data driven technologies** and **full stack development**.
+
+Currently, I am pursuing my Master’s in **Computer Science** at **North Carolina State University**, where I’m deepening my understanding in software engineering research and exploring innovative approaches to data-driven technologies. In my previous role as an Associate Software Engineer at **Falabella India**, I developed smart, scalable solutions to overcome challenges in E-commerce.
+
+As a detail-oriented student with a strong working ethics, I wish to collaborate, learn and contribute towards projects that shape the world of technology.
+
+🚀 I’m actively seeking **internship opportunities in software engineering** where I can apply my skills, grow as a developer, and help build transformative solutions.
+
+Let’s connect and explore how we can create something amazing together!
 
 ## 🌟 About Me
 - 🎓 **Education**:  
@@ -16,9 +24,9 @@ I'm a Master’s student in **Computer Science** at **North Carolina State Unive
 
 ## 🛠️ Technical Skills
 - **Languages**: C, C++, Java, SQL, Python.  
-- **Web Development**: HTML, CSS, JavaScript, ReactJS, Node.js.  
+- **Web Development**: HTML, CSS, JavaScript, ReactJS, Node.js, Ruby on Rails.  
 - **Cloud & Tools**: Google Cloud (BigQuery, Pub/Sub), Spring Boot, Docker, Postman, Jira.  
-- **Databases**: MySQL, PostgreSQL, MongoDB.  
+- **Databases**: MySQL, PostgreSQL, MongoDB, NoSQL, Django.  
 
 ## 💡 Projects
 - **[Recipe Recommender](https://github.com/SRN-SE-Fall24/CookSmart)**:  
