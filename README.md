@@ -12,7 +12,7 @@ Let’s connect and explore how we can create something amazing together!
 
 ## 🌟 About Me
 - 🎓 **Education**:  
-  - **MCS** at NC State University (Graduation: May 2026 | GPA: 3.6/4).  
+  - **Master of Computer Science** at NC State University (Graduation: May 2026 | GPA: 3.6/4).  
   - **BE in Computer Science** from KLS Gogte Institute of Technology, India (GPA: 9.2/10).
 - 💻 **Experience**:  
   I've contributed to cutting-edge projects and engineering solutions at:
@@ -23,10 +23,11 @@ Let’s connect and explore how we can create something amazing together!
   - Best Final Year Research Project award for **Dynamic Label Generator**.
 
 ## 🛠️ Technical Skills
-- **Languages**: C, C++, Java, SQL, Python.  
+- **Languages**: C, C++, Java, SQL, Python, Golang.  
 - **Web Development**: HTML, CSS, JavaScript, ReactJS, Node.js, Ruby on Rails.  
 - **Cloud & Tools**: Google Cloud (BigQuery, Pub/Sub), Spring Boot, Docker, Postman, Jira.  
-- **Databases**: MySQL, PostgreSQL, MongoDB, NoSQL, Django.  
+- **Databases**: MySQL, PostgreSQL, MongoDB, NoSQL, Django.
+- **Operating Systems**: Windows, Mac, Linux.  
 
 ## 💡 Projects
 - **[Recipe Recommender](https://github.com/SRN-SE-Fall24/CookSmart)**:  
