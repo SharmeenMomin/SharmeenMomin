@@ -30,12 +30,24 @@ Let’s connect and explore how we can create something amazing together!
 - **Operating Systems**: Windows, Mac, Linux.  
 
 ## 💡 Projects
+- **[Movie Ticketing System | Ruby on Rails Project]( https://github.ncsu.edu/nmaruva/CSC_517_Spring2025_Program_2_RoR):**
+  Designed and developed a full-stack movie ticketing system enabling users to browse movies, view showtimes, and purchase tickets with a seamless booking experience. Implemented admin functionalities for managing movies, shows, users, and tickets with secure authentication and role-based access control. Enhanced system scalability by incorporating multi-screen support for movies, optimizing real-world applicability.
 - **[Recipe Recommender](https://github.com/SRN-SE-Fall24/CookSmart)**:  
-  A web app using ReactJS, Node.js, Firebase, and the Gemini API for personalized recipe suggestions.
-- **Dynamic Label Generator**:  
-  Full-stack application with drag-and-drop UI, reducing label generation time by over 60%.  
-- **Image Segmentation Using Edge Detection**:  
-  Python-based project leveraging OpenCV, NumPy, and Matplotlib for edge-based image segmentation.
+  Developed an open-source feature-rich recipe recommender app leveraging ReactJS, NodeJS, and Firebase for user authentication, database management. Integrated the Gemini API for real-time recipe searches powered by NLP, enabling personalized recipe recommendations.Implemented an ingredient-based shopping list download functionality and recipe bookmarking to enhance user experience through seamlessdata management and dynamic interaction.
+- **[Image Segmentation Using Edge Detection](https://github.ncsu.edu/adube2/engr-ALDA-Fall2024-P3)**:  
+  Developed an image segmentation pipeline using Python and libraries such as OpenCV, NumPy, and Matplotlib, applying edge detection techniques (Structured Edge Detection, Sobel, and Canny) on the Berkeley Segmentation Dataset (BSDS300). Conducted performance evaluation using metrics like precision, recall, and F1-score, achieving the best results with Structured Edge Detection.
+- **Dynamic Label Generator | Full Stack Application**:  
+  Developed a dynamic label design application with ReactJS, REST APIs, Java (Spring Boot), and PostgreSQL, enabling drag-and-drop customization. Improved efficiency by 66%, cutting label generation time from 10-12 days to 4-5 days. Awarded Best Final Year Research Project at Project-Expo 2023.
+- **LogiScrape | Web Scraping Automation Project**:  
+  Worked on data scraping using Python and Selenium. Employed web scraping techniques to efficiently collect and structure data, subsequently transforming it into a DataFrame. Successfully integrated Google Cloud's BigQuery to facilitate seamless data storage and analysis..
+- **Product-Inventory Management System | REST Api based Project**:  
+  Developed a RESTful API for a product inventory management system using Java, Spring Boot, and Maven. Implemented CRUD operations to store, retrieve, update, and delete products using Spring JPA. Ensured data integrity and security by incorporating extensive validation of input fields. Achieved 85 percent unit test coverage with JUnit and Mockito, showcasing meticulous attention to detail and delivering a secure and reliable solution.
+- **Systematic Farming Website for Farmers in Local Languages | Web Application**:  
+  Developed during a 36-hour internal hackathon for Smart India Hackathon 2022, this project aimed to empower local farmers in Uttarakhand by providing crucial agricultural information, including details on crops, seeds, farming tools, and weather reports. Given the region's linguistic diversity, we integrated a machine learning algorithm to translate and effectively communicate content in multiple dialects. The project secured the 7th position in the competition and was built using HTML, CSS, and JavaScript.
+- **Travel and Tourism Management System | Full Stack Application**:  
+  Designed and developed a full-fledged desktop application for a travel agency, leveraging Java Swing to deliver a seamless and user-friendly interface. The application streamlined key functionalities, including real-time hotel availability viewing and booking management. Integrated SQL for efficient data storage and retrieval, with XAMPP server facilitating database connectivity and backend operations.
+- **E-commerce Website**:  
+  Developed a dynamic e-commerce web application for a local shop during covid time, providing a seamless shopping experience with an intuitive and responsive frontend built using HTML5 and CSS. Implemented robust cart and inventory management features using PHP and MySQL, ensuring efficient order processing and real-time stock updates.Optimized the platform for smooth navigation, enabling customers to effortlessly browse, select, and purchase products.
 
 ## 📈 What Drives Me
 I'm excited about leveraging **technology** to solve complex problems, collaborating on innovative projects, and learning from industry leaders. My academic pursuits in **software engineering** and **algorithms** complement my professional experience, enabling me to contribute effectively to impactful solutions.
