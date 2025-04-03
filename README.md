@@ -30,9 +30,9 @@ Let’s connect and explore how we can create something amazing together!
 - **Operating Systems**: Windows, Mac, Linux.  
 
 ## 💡 Projects
-- **[Movie Ticketing System | Ruby on Rails Project]( https://github.ncsu.edu/nmaruva/CSC_517_Spring2025_Program_2_RoR):**  February 2025
+- **[Movie Ticketing System | Ruby on Rails Project](https://github.com/SharmeenMomin/Movie-Ticketing-System):**  February 2025
   Designed and developed a full-stack movie ticketing system enabling users to browse movies, view showtimes, and purchase tickets with a seamless booking experience. Implemented admin functionalities for managing movies, shows, users, and tickets with secure authentication and role-based access control. Enhanced system scalability by incorporating multi-screen support for movies, optimizing real-world applicability.
-- **[Recipe Recommender](https://github.com/SRN-SE-Fall24/CookSmart)**:  October 2024
+- **[Recipe Recommender](https://github.com/SharmeenMomin/CookSmart-Recipe-Recommender-Application)**:  October 2024
   Developed an open-source feature-rich recipe recommender app leveraging ReactJS, NodeJS, and Firebase for user authentication, database management. Integrated the Gemini API for real-time recipe searches powered by NLP, enabling personalized recipe recommendations.Implemented an ingredient-based shopping list download functionality and recipe bookmarking to enhance user experience through seamlessdata management and dynamic interaction.
 - **[Fashion Recommender | Full Stack Application](https://github.com/SRN-SE-Fall24/FashionRecommender)**:  November 2024
   Built a personalized outfit recommendation system using AI, Gemini API, and Google Authentication, providing clothing suggestions based on user preferences, weather, and culture. Implemented ReactJS, Firebase, and REST APIs for seamless navigation and shopping integration. Achieved 90% test coverage for enhanced reliability.
