@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://sharmeenmomin.github.io/SharmeenMomin/static/css/main.31134dbf.css",
+    "main.js": "https://sharmeenmomin.github.io/SharmeenMomin/static/js/main.445774ba.js",
+    "static/js/453.ace21015.chunk.js": "https://sharmeenmomin.github.io/SharmeenMomin/static/js/453.ace21015.chunk.js",
+    "index.html": "https://sharmeenmomin.github.io/SharmeenMomin/index.html",
+    "main.31134dbf.css.map": "https://sharmeenmomin.github.io/SharmeenMomin/static/css/main.31134dbf.css.map",
+    "main.445774ba.js.map": "https://sharmeenmomin.github.io/SharmeenMomin/static/js/main.445774ba.js.map",
+    "453.ace21015.chunk.js.map": "https://sharmeenmomin.github.io/SharmeenMomin/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31134dbf.css",
+    "static/js/main.445774ba.js"
+  ]
+}
