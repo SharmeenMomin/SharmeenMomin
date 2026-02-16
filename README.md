@@ -39,6 +39,19 @@ I've contributed to cutting-edge projects and engineering solutions at:
 
 ## 💡 Projects
 
+**Network Data Flow & Routing Analysis**
+Simulated enterprise network topologies and configured OSPF/BGP, NAT, VLANs, and ACLs, validating packet flow using Wireshark.
+Analyzed routing tables, NAT translations, failover, latency, and throughput across different forwarding paths.
+Implemented and tested Dijkstra, ARP, and CSMA/CD to study path computation, address resolution, and collision handling.
+Compared control-plane and data-plane behavior in SD-WAN, wireless, and SDN-based architectures.
+
+**User-Centered E-commerce Experience Redesign - ZARA**
+Applied a research-driven design workflow to redesign product listing and discovery for an e-commerce platform.
+Translated user interview insights into personas, journey maps, and task flows to define functional requirements.
+Conducted heuristic evaluations and usability testing to identify interaction and accessibility issues.
+Built interactive prototypes in Figma focusing on scalable filtering, information hierarchy, and mobile responsiveness.
+Delivered a data-backed UX improvement proposal, reducing cognitive load and improving product findability.
+
 **Movie Ticketing System | Ruby on Rails Project: February 2025**  
 Designed and developed a full-stack movie ticketing system enabling users to browse movies, view showtimes, and purchase tickets with a seamless booking experience. Implemented admin functionalities for managing movies, shows, users, and tickets with secure authentication and role-based access control. Enhanced system scalability by incorporating multi-screen support for movies, optimizing real-world applicability.
 
