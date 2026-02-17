@@ -7,7 +7,7 @@ Currently, I am pursuing my Master’s in Computer Science at North Carolina Sta
 
 As a detail-oriented student with a strong working ethics, I wish to collaborate, learn and contribute towards projects that shape the world of technology.
 
-🚀 I’m actively seeking internship opportunities in software engineering where I can apply my skills, grow as a developer, and help build transformative solutions.
+🚀 I’m actively seeking full time opportunities in software engineering where I can apply my skills, grow as a developer, and help build transformative solutions.
 
 Let’s connect and explore how we can create something amazing together!
 
@@ -38,6 +38,13 @@ I've contributed to cutting-edge projects and engineering solutions at:
 ---
 
 ## 💡 Projects
+
+**DeepCode Fixer – Retrieval-Augmented LLM Pipeline for Secure Code Repair**
+Architected an end-to-end asynchronous processing pipeline for vulnerability analysis: preprocessing → semantic retrieval → RCA generation → patch synthesis → automated validation.
+Implemented vector similarity search with FAISS for low-latency nearest-neighbor retrieval across thousands of code samples.
+Designed structured JSON intermediate contracts between agents to enable modularity and traceable execution.
+Logged execution metadata and built an automated evaluation workflow for large-scale batch processing.
+Demonstrated strong generalization on unseen CVEs without model fine-tuning through retrieval-guided reasoning.
 
 **Network Data Flow & Routing Analysis**
 Simulated enterprise network topologies and configured OSPF/BGP, NAT, VLANs, and ACLs, validating packet flow using Wireshark.
